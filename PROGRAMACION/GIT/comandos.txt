@@ -19,8 +19,7 @@ git commit -m 'asfsafsfsfsafsdfsdfasf' // subir a copia local
 git push // subir repositorio
 
 --------------------------------
-git log 
-
+git diff ferr34r34r34r4   // diferencia con commit con la version actual de codigo
 
 
 -----------------------------------
