@@ -1,5 +1,33 @@
+
 git init
 
 git status
 
+git branch
+
 git log
+
+
+
+------------------------------------
+git init
+git push -u origin master https://github.com/DanExGithub/
+git pull
+------------------------------------------
+git add .  // agregar cambios al stage
+git commit -m 'asfsafsfsfsafsdfsdfasf' // subir a copia local 
+git push // subir repositorio
+
+--------------------------------
+git log 
+
+
+
+-----------------------------------
+alias
+// ver todas las ramas
+
+git config --global alias.logall "log --oneline --decorate --all --graph"
+
+
+
